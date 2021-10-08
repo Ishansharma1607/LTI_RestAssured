@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-10-08T07:15:19Z" name="Default suite" finished-at="2021-10-08T07:15:22Z" duration-ms="3131">
+  <suite started-at="2021-10-08T09:12:56Z" name="Default suite" finished-at="2021-10-08T09:12:59Z" duration-ms="3380">
     <groups>
     </groups>
-    <test started-at="2021-10-08T07:15:19Z" name="Default test" finished-at="2021-10-08T07:15:22Z" duration-ms="3131">
-      <class name="day2.NegativeTesting">
-        <test-method signature="addingInvalidCharacter()[pri:0, instance:day2.NegativeTesting@6c0d7c83]" started-at="2021-10-08T07:15:19Z" name="addingInvalidCharacter" description="Checking With Invalid parameter" finished-at="2021-10-08T07:15:22Z" duration-ms="3096" status="PASS">
+    <test started-at="2021-10-08T09:12:56Z" name="Default test" finished-at="2021-10-08T09:12:59Z" duration-ms="3380">
+      <class name="day2.GitHub22">
+        <test-method signature="gettingAllRepoitories()[pri:0, instance:day2.GitHub22@258d79be]" started-at="2021-10-08T09:12:56Z" name="gettingAllRepoitories" finished-at="2021-10-08T09:12:59Z" duration-ms="3352" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addingInvalidCharacter -->
-      </class> <!-- day2.NegativeTesting -->
+        </test-method> <!-- gettingAllRepoitories -->
+      </class> <!-- day2.GitHub22 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
