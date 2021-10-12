@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="day2.NegativeTesting">
+      <class name="day2.GitHub">
         <methods>
-          <include name="addingContactMissingParameter"/>
+          <include name="beforeTest"/>
+          <include name="createRepositories"/>
         </methods>
-      </class> <!-- day2.NegativeTesting -->
+      </class> <!-- day2.GitHub -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
